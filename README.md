@@ -1,0 +1,2 @@
+# premium-quench-salt-001-salt-quench-bath-marquench-c
+Tired of inconsistent hardness and messy heat-treat logs? Turn your salt bath and marquench craft into a repeatable, precision system with a dedicated Notion workspace.  This template organizes every variable—from salt composition and quench temperatures to part geometry and soak times—so you can replicate successful runs and troubleshoot failures.
